@@ -1,0 +1,41 @@
+body{
+  margin:0;
+}
+
+.diferente{
+  font-size: : 30px;
+  font-family: font-family: 'Sedgwick Ave', cursive;
+  color: red;
+  padding-bottom: : 30px;
+  background-color: grey;
+  text-align: center;
+}
+
+h1{
+  font-size: 40px;
+  padding-left: 20px;
+  text-decoration: underline;
+  color: #4267b2;
+}
+
+#lista{
+  font-size: 20px;
+  font-weight: bold;
+  color: purple;
+}
+
+img{
+  width: 500px;
+  height: 100%;
+  display: flex;
+  float: right;
+}
+
+.botao1{
+  background-color: green;
+  font-weight: bold;
+  font-size: 25px;
+  padding: 20px;
+  text-align: center;
+  margin-left: 40px;
+}
